@@ -1,0 +1,178 @@
+POWERPOINT PRESENTATION GENERATION PROMPT
+
+INSTRUCTIONS FOR SLIDE GENERATOR:
+Replace all placeholders in brackets [like this] with user-provided content. Create a 6-7 slide presentation following the exact structure below.
+
+USER INPUTS TO REPLACE:
+- [PROJECT_TITLE]: Insert the project title here
+- [PROJECT_SUMMARY]: Insert 1-2 sentence project summary here
+- [OPTIONAL_DATA]: Insert any specific metrics, data points, or image requirements here (if provided)
+
+=================================================================================
+
+SLIDE 1 — TITLE SLIDE
+Title: [PROJECT_TITLE]
+Subtitle: [PROJECT_SUMMARY]
+Bullets: [Insert current date or key tagline if provided]
+Speaker Notes: Welcome the audience and introduce the project with enthusiasm, setting the stage for the key benefits they'll learn about.
+Visual: Full-bleed background image related to the project theme, company logo positioned at top-right corner
+Layout: Title centered and large; subtitle below; minimal text for maximum impact
+
+=================================================================================
+
+SLIDE 2 — INTRODUCTION
+Title: What is [PROJECT_TITLE]?
+Bullets: 
+• Addresses [key problem or need]
+• Delivers [primary solution or benefit] 
+• Transforms [target area or process]
+Speaker Notes: Establish context by explaining the core problem this project solves and why it matters to the audience.
+Visual: Clean icon or conceptual illustration positioned on the right side
+Layout: Two-column layout (bullet points left, visual right, 60/40 split)
+
+=================================================================================
+
+SLIDE 3 — HOW IT WORKS
+Title: How It Works
+Bullets:
+• Step 1: [Initial process or input]
+• Step 2: [Core processing or analysis]
+• Step 3: [Output or result delivery]
+• Step 4: [Feedback or iteration cycle]
+Speaker Notes: Walk through each step methodically, emphasizing the logical flow and technical innovation behind the process.
+Visual: Simple 4-step flowchart or process diagram positioned on the left
+Layout: Process diagram left (50%), numbered bullet points right (50%)
+
+=================================================================================
+
+SLIDE 4 — PROJECT OBJECTIVES
+Title: Key Objectives
+Bullets:
+• Achieve [X%] improvement in [metric]
+• Reduce [process/cost] by [Y amount]
+• Increase [efficiency/accuracy] to [Z level]
+• Deploy to [X] users/locations by [timeframe]
+Speaker Notes: Highlight how these measurable objectives directly benefit stakeholders and align with organizational goals.
+Visual: Target or goal-oriented icons, progress indicators
+Layout: Title with 4 bullet points in clean list format, icons alongside each bullet
+
+=================================================================================
+
+SLIDE 5 — VISION & IMPACT
+Title: Long-term Vision
+Bullets:
+• Scale to [broader market/user base]
+• Enable [future capabilities or innovations]
+• Transform [industry or field of application]
+Speaker Notes: Paint the bigger picture of how this project contributes to long-term strategic goals and broader transformation.
+Visual: Aspirational photography or futuristic concept image as background
+Layout: Large background image with text overlay (ensure high contrast for readability)
+
+=================================================================================
+
+SLIDE 6 — APPLICATIONS
+Title: Real-World Applications
+Bullets:
+• [Industry 1]: [Specific use case]
+• [Industry 2]: [Specific use case]  
+• [Industry 3]: [Specific use case]
+• [Industry 4]: [Specific use case]
+Speaker Notes: Provide concrete examples that help the audience visualize practical implementation across different scenarios.
+Visual: Four distinct icons representing each application area, arranged in a grid
+Layout: Icons in 2x2 grid with short descriptive captions beneath each
+
+=================================================================================
+
+SLIDE 7 — ADVANTAGES & CHALLENGES
+Title: Advantages & Considerations
+Left Column (Advantages):
+• [Key strength 1]
+• [Key strength 2]
+• [Key strength 3]
+Right Column (Challenges):
+• [Limitation or challenge 1]
+• [Limitation or challenge 2]
+• [Mitigation strategy]
+Speaker Notes: Present a balanced view that builds credibility while addressing potential concerns proactively and professionally.
+Visual: Small thumbs-up icon above left column, caution icon above right column
+Layout: Two-column table format with clear visual separation
+
+=================================================================================
+
+ALTERNATIVE SLIDE 7 — CALL TO ACTION (if preferring 6 slides total)
+Title: Next Steps
+Bullets:
+• Immediate: [First action item]
+• Short-term: [30-60 day goal]
+• Contact: [Name/email for follow-up]
+Speaker Notes: End with clear, actionable next steps and make it easy for interested parties to continue the conversation.
+Visual: Forward arrow or action-oriented icon, contact information graphic
+Layout: Three bullet points with contact information prominently displayed at bottom
+
+=================================================================================
+
+VISUAL & FORMATTING SPECIFICATIONS
+
+Color Palette:
+- Primary: #1F4E79 (Deep Blue) - for headings and key elements
+- Accent: #F2A900 (Warm Amber) - for highlights and call-outs  
+- Background: #FFFFFF (White) - clean background
+- Supporting: #F8F9FA (Light Gray) - for subtle backgrounds and dividers
+
+Typography:
+- Title Font: Montserrat Bold (36-44 pt)
+- Body Font: Lato Regular (20-24 pt)
+- Caption Font: Lato Regular (16-18 pt)
+
+Layout Standards:
+- Slide Size: 16:9 aspect ratio
+- Margins: 1" on all sides minimum
+- Maximum 40 words per slide
+- Bullet points: 6-10 words each preferred
+- Consistent spacing and alignment throughout
+
+Visual Style:
+- Use flat design icons with consistent style
+- Professional photography (avoid stock photo clichés)
+- Clean, minimal charts if data visualization needed
+- Consistent visual hierarchy across all slides
+
+=================================================================================
+
+DELIVERY SPECIFICATIONS
+
+File Name: [PROJECT_TITLE]_Overview_Presentation.pptx
+Total Duration: 6-8 minutes presentation time
+Per-Slide Timing: 45-60 seconds per slide recommended
+Target Audience: [Adjust tone based on technical/executive/general audience]
+
+=================================================================================
+
+ACCESSIBILITY & DESIGN NOTES
+
+Designer Requirements:
+- Add descriptive alt text to all images and icons
+- Ensure minimum 4.5:1 contrast ratio for all text
+- Use font sizes no smaller than 20pt for body text
+- Provide slide titles that are descriptive for screen readers
+- Include slide numbers for easy reference
+- Avoid color as the only means of conveying information
+- Test readability on both light and dark presentation environments
+
+Chart Specifications (if data provided):
+- Use horizontal bar charts for comparisons
+- Line charts for trends over time  
+- Pie charts only if showing parts of a whole (max 5 segments)
+- Always include data labels and legends
+- Use color palette specified above
+
+Quality Assurance:
+- Spell-check all content
+- Ensure consistent formatting across slides
+- Verify all placeholders have been replaced
+- Test presentation flow and transitions
+- Confirm all images are high resolution (minimum 300 DPI)
+
+=================================================================================
+
+FINAL INSTRUCTION: Replace all bracketed placeholders with actual project content and generate slides exactly as specified above. Maintain professional tone throughout and ensure visual consistency across all slides.
