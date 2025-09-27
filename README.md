@@ -27,3 +27,4 @@ That’s it. This command:
 Creates a virtual environment (if needed)
 Installs all dependencies from uv.lock
 Sets up the full environment exactly as intended# AI_PBL
+# AI_PBL
